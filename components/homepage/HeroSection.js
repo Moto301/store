@@ -41,7 +41,7 @@ export default function HeroSection() {
               Unleash the Outdoors
               </p>
               <p className="text-transform-uppercase font-size-title mb-5 hero-subheader">
-              Gear Up for the Hunt with Demo Hunting
+               Gear Up for the Hunt with Demo Hunting
               </p>
               <Link href="/collection">
                 <a className="d-flex align-items-center bg-transparent border border-color-white h-56 px-5 font-color-white hero-btn">
