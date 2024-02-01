@@ -38,10 +38,10 @@ export default function HeroSection() {
               }}
             >
               <p className="font-size-display5 font-family-secondary mb-4 text-center hero-header">
-              Unleash the Outdoors
+                The care you&apos;ve always needed
               </p>
               <p className="text-transform-uppercase font-size-title mb-5 hero-subheader">
-              Gear Up for the Hunt with Demo Hunting
+                A range of products for you
               </p>
               <Link href="/collection">
                 <a className="d-flex align-items-center bg-transparent border border-color-white h-56 px-5 font-color-white hero-btn">
