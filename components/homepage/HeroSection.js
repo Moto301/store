@@ -18,6 +18,9 @@ const params = {
   }
 };
 const images = [
+  '/images/a.png',
+  '/images/b.jpg',
+  '/images/c.jpg',
   '/images/home-1.jpg',
   '/images/home-2.jpg',
   '/images/oip.jpg',
