@@ -37,7 +37,7 @@ export default function HeroSection() {
             <div
               className="hero-slide d-flex align-items-center justify-content-center flex-column font-color-white py-5"
               style={{
-                backgroundImage: 'url("home-2.jpg")'
+                backgroundImage: 'url("/images/home-2.jpg")'
               }}
             >
               <p className="font-size-display5 font-family-secondary mb-4 text-center hero-header">
