@@ -18,7 +18,6 @@ const params = {
   }
 };
 const images = [
-  'public/images/DEERANDHUNTERLANDING.png',
   '/images/home-1.jpg',
   '/images/home-2.jpg',
   '/images/oip.jpg',
