@@ -18,10 +18,10 @@ const params = {
   }
 };
 const images = [
-  '/images/deerandhunter.png',
+  'public/images/DEERANDHUNTERLANDING.png',
   '/images/home-1.jpg',
   '/images/home-2.jpg',
-  '/images/home-3.jpg',
+  '/images/oip.jpg',
   '/images/home-4.jpg',
 ];
 
