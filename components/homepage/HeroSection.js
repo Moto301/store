@@ -18,7 +18,7 @@ const params = {
   }
 };
 const images = [
-  '/images/deerandhunter.jpg',
+  '/images/deerandhunter.png',
   '/images/home-1.jpg',
   '/images/home-2.jpg',
   '/images/home-3.jpg',
