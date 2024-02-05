@@ -6,12 +6,12 @@ const Footer = () => (
       <div className="row">
         <div className="col-12 col-sm-6 col-md-4">
           <p className="font-family-secondary font-size-display1 mb-4">
-            Commerce.js
+          Tactical Hunting and Outdoors Australia 2024
           </p>
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
               <a
-                href="https://commercejs.com/docs/"
+                href=""
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -19,7 +19,7 @@ const Footer = () => (
                 Documentation
               </a>
               <a
-                href="https://commercejs.com/features"
+                href=""
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -29,7 +29,7 @@ const Footer = () => (
             </div>
             <div>
               <a
-                href="https://commercejs.com/about"
+                href=""
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -37,7 +37,7 @@ const Footer = () => (
                 About
               </a>
               <a
-                href="http://slack.commercejs.com/"
+                href=""
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -54,7 +54,7 @@ const Footer = () => (
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
               <a
-                href="https://twitter.com/commercejs"
+                href="https://twitter.com/"
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -62,25 +62,15 @@ const Footer = () => (
                 Twitter
               </a>
               <a
-                href="https://www.instagram.com/commerce.js/"
+                href="https://www.instagram.com/"
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Instagram
               </a>
-            </div>
-            <div>
               <a
-                href="https://angel.co/company/chec"
-                className="mb-3 d-block font-color-medium"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Angel
-              </a>
-              <a
-                href="https://www.linkedin.com/company/chec-chec-commerce-inc.-/"
+                href="https://www.linkedin.com"
                 className="d-block font-color-medium"
                 target="_blank"
                 rel="noopener noreferrer"
